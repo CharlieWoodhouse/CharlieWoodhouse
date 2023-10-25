@@ -22,7 +22,7 @@ I’m currently in my last year of learning a Level 3 Extended Diploma in Inform
 
 ## Gaming Content 🎥
 My Youtube Channel https://www.youtube.com/@ChazWoodhouse
-<a href= "https://www.youtube.com/watch?v=XYgubwISxeY&ab_channel=ChazWoodhouse" target=" _blank><img src="https://www.youtube.com/watch?v=XYgubwISxeY&ab_channel=ChazWoodhouse.jpg" alt= "https://i.ytimg.com/vi/XYgubwISxeY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhx6JkmC8IiGBrPbR8zw8nrJAiLQ" /></a>
+[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/d420c043-59db-4786-a441-4d4746521541)" width="50%">]("https://www.youtube.com/watch?v=XYgubwISxeY&ab_channel=ChazWoodhouse")
 
 ## Contact 💬
 How to reach me by chazwoodhouse1@gmail.com
