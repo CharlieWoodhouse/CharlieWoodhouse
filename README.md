@@ -1,6 +1,6 @@
-👋 Hi, I’m Charlie
-
 ![Wallpaper_1 (1)](https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/7351718a-1fa3-43b7-aba7-aad86a3f8896)
+
+👋 Hi, I’m Charlie
 
   👀 I’m interested in Game development and Internet of Things
 
