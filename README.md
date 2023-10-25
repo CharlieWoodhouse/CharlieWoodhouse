@@ -19,10 +19,10 @@
       - Digital Animation and Effects (Unit 18)
       - Internet of Things (Unit 19)
 
-#### Content Made
+## Content Made
 🎥 My Gaming Content https://www.youtube.com/@ChazWoodhouse
 
-###### Contact 
+## Contact 
 📫 How to reach me by chazwoodhouse1@gmail.com
 
 <!---
