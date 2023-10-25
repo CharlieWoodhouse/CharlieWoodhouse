@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Charlie and I’m interested in Game development and Internet of Things
 
-# Skills
+## Skills
   🌱 I’m currently in my last year of learning a Level 3 Extended Diploma in Information Technology, which involes:
   
       - Information Technology Systems (Unit 01)
