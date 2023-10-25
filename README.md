@@ -1,7 +1,8 @@
 👋 Hi, I’m Charlie
 
+![Wallpaper_1 (1)](https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/7351718a-1fa3-43b7-aba7-aad86a3f8896)
+
   👀 I’m interested in Game development and Internet of Things
-  ![Wallpaper_1](https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/a123763b-bc75-4c5d-acd4-9bb4f8178455)
 
   🌱 I’m currently in my last year of learning a Level 3 Extended Diploma in Information Technology, which involes:
       - Information Technology Systems (Unit 01)
