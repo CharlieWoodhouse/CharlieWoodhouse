@@ -1,9 +1,10 @@
 ![Wallpaper_1 (1)](https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/7351718a-1fa3-43b7-aba7-aad86a3f8896)
 
-👋 Hi, I’m Charlie and I’m interested in Game development and Internet of Things
+## About Me 🙋🏻‍♂️
+Hi, I’m Charlie and I’m interested in Game development and Internet of Things
 
-## Skills
-  🌱 I’m currently in my last year of learning a Level 3 Extended Diploma in Information Technology, which involes:
+## Skills 🛠️
+I’m currently in my last year of learning a Level 3 Extended Diploma in Information Technology, which involes:
   
       - Information Technology Systems (Unit 01)
       - Creating Systems to Manage Information (Unit 02)
@@ -19,11 +20,11 @@
       - Digital Animation and Effects (Unit 18)
       - Internet of Things (Unit 19)
 
-## Content Made
-🎥 My Gaming Content https://www.youtube.com/@ChazWoodhouse
+## Content Made 🎥
+My Gaming Content https://www.youtube.com/@ChazWoodhouse
 
-## Contact 
-📫 How to reach me by chazwoodhouse1@gmail.com
+## Contact 💬
+How to reach me by chazwoodhouse1@gmail.com
 
 <!---
 CharlieWoodhouse/CharlieWoodhouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
