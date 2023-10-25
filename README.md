@@ -5,6 +5,7 @@
   👀 I’m interested in Game development and Internet of Things
 
   🌱 I’m currently in my last year of learning a Level 3 Extended Diploma in Information Technology, which involes:
+  
       - Information Technology Systems (Unit 01)
       - Creating Systems to Manage Information (Unit 02)
       - Using Social Media in Business (Unit 03)
