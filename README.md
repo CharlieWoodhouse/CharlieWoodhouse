@@ -20,8 +20,8 @@ I’m currently in my last year of learning a Level 3 Extended Diploma in Inform
       - Digital Animation and Effects (Unit 18)
       - Internet of Things (Unit 19)
 
-## Content Made 🎥
-My Gaming Content https://www.youtube.com/@ChazWoodhouse
+## Gaming Content 🎥
+My Youtube Channel https://www.youtube.com/@ChazWoodhouse
 
 ## Contact 💬
 How to reach me by chazwoodhouse1@gmail.com
