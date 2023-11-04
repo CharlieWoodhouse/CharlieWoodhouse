@@ -20,7 +20,8 @@ I’m currently in my last year of completing a Level 3 Extended Diploma in Info
       - Digital Animation and Effects (Unit 18)
       - Internet of Things (Unit 19)
 
-      I'm also actively working on a game project, where I'm applying my programming, game development, and creative skills.
+      I'm also actively working on a game project,
+      where I'm applying my programming, game development, and creative skills.
 
 ## Contact 📬
 Feel free to reach out to me at chazwoodhouse1@gmail.com for any collaboration, questions, or discussions related to game development or technology.
