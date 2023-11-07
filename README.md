@@ -4,7 +4,7 @@
 Hi, I'm Charlie, a passionate and proactive individual who's currently working on developing my own game. My goal is to build a career in the gaming industry to further enhance my skills and contribute to the world of game development.
 
 ## Education 📚 & Skills 🛠️
-I’m currently in my last year of completing a Level 3 Extended Diploma in Information Technology, which involes:
+I’m currently in my last year of completing a Level 3 Extended Diploma in Information Technology, which involed:
   
       - Information Technology Systems (Unit 01)
       - Creating Systems to Manage Information (Unit 02)
