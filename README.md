@@ -3,7 +3,7 @@
 ## About Me 🙋🏻‍♂️
 Hi, I'm Charlie, a passionate and proactive individual who's currently working on developing my own game. My goal is to build a career in the gaming industry to further enhance my skills and contribute to the world of game development.
 
-## Education 📚 & Skills 🛠️
+## Coding Education 📚 & Skills 🛠️
   
       - Programming (Unit 04)
       - Website Development (Unit 06)
