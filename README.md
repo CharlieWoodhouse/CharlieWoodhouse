@@ -5,10 +5,10 @@ Hi, I'm Charlie, a passionate and proactive individual who's currently working o
 
 ## Coding Education 📚 & Skills 🛠️
   
-      - Programming (Unit 04)
-      - Website Development (Unit 06)
-      - Computer Games Development (Unit 08)
-      - Internet of Things (Unit 19)
+      - Programming
+      - Website Development
+      - Computer Games Development
+      - Internet of Things
 
       I'm also actively working on a game project, where I'm applying my programming, game development, and creative skills.
 
