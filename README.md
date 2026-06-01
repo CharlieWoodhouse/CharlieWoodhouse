@@ -16,8 +16,6 @@ I currently work within the **educational sector**, where I continue to develop 
 
 My journey in computing is driven by curiosity, discipline, and the desire to keep improving. I am interested in building practical software, exploring creative technology, understanding how systems work, and turning ideas into clean, functional digital solutions.
 
-Like a survivor moving through hostile ground, I treat every challenge as another round to clear, another system to understand, and another opportunity to become stronger.
-
 ---
 
 ## 🎯 Current Objectives
@@ -100,10 +98,10 @@ ACTIVE MILESTONES
 
 > Projects that are in active planning.
 
-| Project               | Description                                          | Tech Used     | Repository    |
-| --------------------- | ---------------------------------------------------- | ------------- | ------------- |
-| **Project Struggler** | A round based game built in monogame                 | `Coming Soon` | `Coming Soon` |
-| **Project Z**         | A creative web development experiment                | `Coming Soon` | `Coming Soon` |
+| Project                          | Description                                  | Tech Used     | Repository    |
+| -------------------------------- | -------------------------------------------- | ------------- | ------------- |
+| **Project ashes of the kingdom** | A round-based game built in MonoGame.        | `Coming Soon` | `Coming Soon` |
+| **Project Z**                    | A creative web development experiment        | `Coming Soon` | `Coming Soon` |
 
 ---
 
