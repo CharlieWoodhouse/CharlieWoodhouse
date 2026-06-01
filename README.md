@@ -111,22 +111,6 @@ FIELD LOGS UNLOCKED
 
 ---
 
-## 📊 GitHub Intel
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlieWoodhouse&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieWoodhouse&theme=dark&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieWoodhouse&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
----
-
 ## 📡 Transmission Channel
 
 For collaboration, development opportunities, or project discussion, send a transmission below.
@@ -135,14 +119,4 @@ For collaboration, development opportunities, or project discussion, send a tran
   <a href="mailto:chazwoodhouse1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=CharlieWoodhouse&icon=0&color=0" alt="Profile Visit Counter" />
-</p>
-
-<p align="center">
-  <em>Every error is another enemy studied. Every build is another round survived.</em>
 </p>
