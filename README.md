@@ -23,7 +23,7 @@ Like a survivor moving through hostile ground, I treat every challenge as anothe
 ## 🎯 Current Objectives
 
 ```txt
-ACTIVE MISSIONS
+ACTIVE MILESTONES
 ```
 
 * Advance my skills in **software development** and application design.
@@ -41,8 +41,6 @@ ACTIVE MISSIONS
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
@@ -106,11 +104,10 @@ FIELD LOGS UNLOCKED
 
 > A collection of builds, experiments, and development work recovered from the archive.
 
-| Project           | Description                                                      | Tech Used     | Repository    |
-| ----------------- | ---------------------------------------------------------------- | ------------- | ------------- |
-| **Project Alpha** | A future software build focused on practical problem-solving.    | `Coming Soon` | `Coming Soon` |
-| **Project Bravo** | A creative development experiment combining design and code.     | `Coming Soon` | `Coming Soon` |
-| **Project Echo**  | A technical project exploring systems, databases, or automation. | `Coming Soon` | `Coming Soon` |
+| Project               | Description                                          | Tech Used     | Repository    |
+| --------------------- | ---------------------------------------------------- | ------------- | ------------- |
+| **Project Struggler** | A round based game built in monogame                 | `Coming Soon` | `Coming Soon` |
+| **Project Z**         | A creative web development experiment                | `Coming Soon` | `Coming Soon` |
 
 ---
 
@@ -149,7 +146,3 @@ For collaboration, development opportunities, or project discussion, send a tran
 <p align="center">
   <em>Every error is another enemy studied. Every build is another round survived.</em>
 </p>
-
-<!--
-CharlieWoodhouse/CharlieWoodhouse is a special repository because its README.md appears on your GitHub profile.
--->
