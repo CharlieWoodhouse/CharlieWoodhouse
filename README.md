@@ -1,134 +1,165 @@
-````md
-<!-- ========================================================= -->
-<!--  DARK OPS README SECTION                                  -->
-<!--  Replace all [placeholders] with your own details.         -->
-<!-- ========================================================= -->
+<p align="center">
+  <img src="https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/7351718a-1fa3-43b7-aba7-aad86a3f8896" alt="Dark cinematic banner" width="100%" />
+</p>
 
-<div align="center">
+<h1 align="center">⚔️ Charlie Woodhouse</h1>
 
-# 🗡️ [Your Name] — Codebound Survivor
+<p align="center">
+  <strong>Developer in Progress | Creative Technologist | Problem Solver</strong>
+</p>
 
-### `[Your Role] | Builder of Systems | Breaker of Bugs | Shipper of Features`
+<p align="center">
+  <em>Building through the darkness. Debugging through the waves. Learning with discipline.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-111111?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Mindset-Relentless-4B0082?style=for-the-badge&labelColor=000000" />
+</p>
+
+---
+
+## 🩸 About Me
+
+I currently work within the **educational sector**, where I continue to develop my technical knowledge, sharpen my problem-solving ability, and expand my skills as a **software developer**.
+
+My journey in computing is driven by curiosity, discipline, and the desire to keep improving. I am interested in building practical software, exploring creative technology, understanding how systems work, and turning ideas into clean, functional digital solutions.
+
+Like a survivor moving through hostile ground, I treat every challenge as another round to clear, another system to understand, and another opportunity to become stronger.
+
+---
+
+## 🎯 Current Objectives
 
 ```txt
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  SIGNAL FOUND // NIGHT PROTOCOL ACTIVE // BUILD ALIVE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-````
+ACTIVE MISSIONS
+```
 
-</div>
-
-I write code like I am trapped behind the final door: no shortcuts, no surrender, no clean escape until the system runs.
-
-By day, I build with **[Your Main Languages]**.
-By night, I hunt bugs through cursed stack traces, refactor ancient code, and push projects past the point where most would quit.
-
-This is my field log — part battlefield, part workshop, part last transmission.
+* Advance my skills in **software development** and application design.
+* Build stronger, cleaner, and more maintainable projects.
+* Deepen my understanding of **web technologies, databases, scripting, and systems**.
+* Explore the connection between **creative design and technical development**.
+* Continue developing discipline, consistency, and confidence as a developer.
+* Create projects that demonstrate practical skill, creativity, and problem-solving.
 
 ---
 
-## ⚔️ Loadout
+## 🧰 Tech Arsenal
 
-| Weapon Class          | Tools & Tech                                               |
-| --------------------- | ---------------------------------------------------------- |
-| **Primary Languages** | `[JavaScript]` `[Python]` `[TypeScript]` `[Your Language]` |
-| **Frontend Arsenal**  | `[React]` `[Next.js]` `[Tailwind CSS]` `[HTML/CSS]`        |
-| **Backend Systems**   | `[Node.js]` `[Express]` `[Django]` `[APIs]`                |
-| **Data Vaults**       | `[MongoDB]` `[PostgreSQL]` `[Firebase]`                    |
-| **Dev Tools**         | `[Git]` `[GitHub]` `[Docker]` `[VS Code]`                  |
-| **Special Equipment** | `[Automation]` `[Security]` `[UI Polish]` `[Testing]`      |
+### 🧬 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Servers
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+### 🎨 Design & Creative Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🔌 Hardware, Networking & Game Development
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
 
 ---
 
-## 🧪 Perks
-
-| Perk                    | Effect                                                                            |
-| ----------------------- | --------------------------------------------------------------------------------- |
-| **Dead-Eye Debugging**  | Tracks errors through chaos and turns broken logic into clean execution.          |
-| **Iron Will**           | Keeps pushing when the build fails, the docs lie, and the deadline breathes fire. |
-| **Full-Stack Instinct** | Moves between frontend, backend, APIs, and databases without losing the mission.  |
-| **Ritual Automation**   | Turns repeated tasks into scripts, workflows, and systems that do the grinding.   |
-| **Clean Blade UI**      | Builds interfaces that feel sharp, readable, and intentional.                     |
-| **Threat Sense**        | Thinks about edge cases, security risks, and failure points before they strike.   |
-
----
-
-## 📜 Quest Log
+## 📁 Recovered Projects
 
 ```txt
-ACTIVE OBJECTIVES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[01] Build:       [Project Name]
-[02] Improve:     [Skill / Tech You Are Learning]
-[03] Ship:        [Upcoming Feature or Release]
-[04] Survive:     Bugs, burnout, and badly named variables
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FIELD LOGS UNLOCKED
 ```
 
-| Objective              | Status                |
-| ---------------------- | --------------------- |
-| **[Project Name]**     | `In Progress`         |
-| **[Another Project]**  | `Prototype Stage`     |
-| **[Learning Goal]**    | `Grinding XP`         |
-| **[Open Source Goal]** | `Awaiting Deployment` |
+> A collection of builds, experiments, and development work recovered from the archive.
+
+| Project           | Description                                                      | Tech Used     | Repository    |
+| ----------------- | ---------------------------------------------------------------- | ------------- | ------------- |
+| **Project Alpha** | A future software build focused on practical problem-solving.    | `Coming Soon` | `Coming Soon` |
+| **Project Bravo** | A creative development experiment combining design and code.     | `Coming Soon` | `Coming Soon` |
+| **Project Echo**  | A technical project exploring systems, databases, or automation. | `Coming Soon` | `Coming Soon` |
 
 ---
 
-## 🩸 Boss Fights Defeated
+## 📊 GitHub Intel
 
-| Encounter                 | Victory                                                              |
-| ------------------------- | -------------------------------------------------------------------- |
-| **Legacy Code Warden**    | Refactored unstable code into something readable and maintainable.   |
-| **The Infinite Bug Loop** | Traced, isolated, and eliminated a problem buried deep in the stack. |
-| **Deployment Gatekeeper** | Took a project from local machine to live environment.               |
-| **The Empty Repo Curse**  | Turned ideas into actual commits, projects, and proof of work.       |
-| **Deadline Revenant**     | Shipped under pressure without sacrificing the mission.              |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlieWoodhouse&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieWoodhouse&theme=dark&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</p>
 
-## 📡 Transmission
-
-```txt
-OPEN CHANNELS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-GitHub:     [GitHub Link]
-Portfolio:  [Portfolio Link]
-LinkedIn:   [LinkedIn Link]
-Email:      [Email]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)]([GitHub Link])
-[![Portfolio](https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge\&logo=vercel\&logoColor=white)]([Portfolio Link])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge\&logo=linkedin\&logoColor=white)]([LinkedIn Link])
-[![Email](https://img.shields.io/badge/Email-3a3a3a?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:[Email])
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieWoodhouse&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&text_color=FFFFFF" alt="Top Languages" />
+</p>
 
 ---
 
-## 📊 Field Stats
+## 📡 Transmission Channel
 
-<div align="center">
+For collaboration, development opportunities, or project discussion, send a transmission below.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\[YourGitHubUsername]\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=\[YourGitHubUsername]\&layout=compact\&theme=dark\&hide_border=true)
-
-</div>
+<p>
+  <a href="mailto:chazwoodhouse1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=CharlieWoodhouse&icon=0&color=0" alt="Profile Visit Counter" />
+</p>
 
-```txt
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  I do not fear the broken build.
-  I fear leaving it undefeated.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<p align="center">
+  <em>Every error is another enemy studied. Every build is another round survived.</em>
+</p>
 
-</div>
-```
+<!--
+CharlieWoodhouse/CharlieWoodhouse is a special repository because its README.md appears on your GitHub profile.
+-->
