@@ -1,21 +1,134 @@
-![Wallpaper_1 (1)](https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/7351718a-1fa3-43b7-aba7-aad86a3f8896)
+````md
+<!-- ========================================================= -->
+<!--  DARK OPS README SECTION                                  -->
+<!--  Replace all [placeholders] with your own details.         -->
+<!-- ========================================================= -->
 
-# 💫 About Me:
-I'm currently working in the educational sector which I'm advancing my knowledge and skills as software developer and also driving my interests in other areas in computing. 
+<div align="center">
 
+# 🗡️ [Your Name] — Codebound Survivor
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chazwoodhouse1@gmail.com) 
+### `[Your Role] | Builder of Systems | Breaker of Bugs | Shipper of Features`
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+```txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SIGNAL FOUND // NIGHT PROTOCOL ACTIVE // BUILD ALIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+````
+
+</div>
+
+I write code like I am trapped behind the final door: no shortcuts, no surrender, no clean escape until the system runs.
+
+By day, I build with **[Your Main Languages]**.
+By night, I hunt bugs through cursed stack traces, refactor ancient code, and push projects past the point where most would quit.
+
+This is my field log — part battlefield, part workshop, part last transmission.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CharlieWoodhouse&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---
-CharlieWoodhouse/CharlieWoodhouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚔️ Loadout
 
+| Weapon Class          | Tools & Tech                                               |
+| --------------------- | ---------------------------------------------------------- |
+| **Primary Languages** | `[JavaScript]` `[Python]` `[TypeScript]` `[Your Language]` |
+| **Frontend Arsenal**  | `[React]` `[Next.js]` `[Tailwind CSS]` `[HTML/CSS]`        |
+| **Backend Systems**   | `[Node.js]` `[Express]` `[Django]` `[APIs]`                |
+| **Data Vaults**       | `[MongoDB]` `[PostgreSQL]` `[Firebase]`                    |
+| **Dev Tools**         | `[Git]` `[GitHub]` `[Docker]` `[VS Code]`                  |
+| **Special Equipment** | `[Automation]` `[Security]` `[UI Polish]` `[Testing]`      |
 
+---
+
+## 🧪 Perks
+
+| Perk                    | Effect                                                                            |
+| ----------------------- | --------------------------------------------------------------------------------- |
+| **Dead-Eye Debugging**  | Tracks errors through chaos and turns broken logic into clean execution.          |
+| **Iron Will**           | Keeps pushing when the build fails, the docs lie, and the deadline breathes fire. |
+| **Full-Stack Instinct** | Moves between frontend, backend, APIs, and databases without losing the mission.  |
+| **Ritual Automation**   | Turns repeated tasks into scripts, workflows, and systems that do the grinding.   |
+| **Clean Blade UI**      | Builds interfaces that feel sharp, readable, and intentional.                     |
+| **Threat Sense**        | Thinks about edge cases, security risks, and failure points before they strike.   |
+
+---
+
+## 📜 Quest Log
+
+```txt
+ACTIVE OBJECTIVES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[01] Build:       [Project Name]
+[02] Improve:     [Skill / Tech You Are Learning]
+[03] Ship:        [Upcoming Feature or Release]
+[04] Survive:     Bugs, burnout, and badly named variables
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+| Objective              | Status                |
+| ---------------------- | --------------------- |
+| **[Project Name]**     | `In Progress`         |
+| **[Another Project]**  | `Prototype Stage`     |
+| **[Learning Goal]**    | `Grinding XP`         |
+| **[Open Source Goal]** | `Awaiting Deployment` |
+
+---
+
+## 🩸 Boss Fights Defeated
+
+| Encounter                 | Victory                                                              |
+| ------------------------- | -------------------------------------------------------------------- |
+| **Legacy Code Warden**    | Refactored unstable code into something readable and maintainable.   |
+| **The Infinite Bug Loop** | Traced, isolated, and eliminated a problem buried deep in the stack. |
+| **Deployment Gatekeeper** | Took a project from local machine to live environment.               |
+| **The Empty Repo Curse**  | Turned ideas into actual commits, projects, and proof of work.       |
+| **Deadline Revenant**     | Shipped under pressure without sacrificing the mission.              |
+
+---
+
+## 📡 Transmission
+
+```txt
+OPEN CHANNELS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GitHub:     [GitHub Link]
+Portfolio:  [Portfolio Link]
+LinkedIn:   [LinkedIn Link]
+Email:      [Email]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)]([GitHub Link])
+[![Portfolio](https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge\&logo=vercel\&logoColor=white)]([Portfolio Link])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge\&logo=linkedin\&logoColor=white)]([LinkedIn Link])
+[![Email](https://img.shields.io/badge/Email-3a3a3a?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:[Email])
+
+</div>
+
+---
+
+## 📊 Field Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\[YourGitHubUsername]\&show_icons=true\&theme=dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=\[YourGitHubUsername]\&layout=compact\&theme=dark\&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  I do not fear the broken build.
+  I fear leaving it undefeated.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+```
