@@ -96,13 +96,9 @@ ACTIVE MILESTONES
 
 ---
 
-## 📁 Recovered Projects
+## 📁 Pending Projects
 
-```txt
-FIELD LOGS UNLOCKED
-```
-
-> A collection of builds, experiments, and development work recovered from the archive.
+> Projects that are in active planning.
 
 | Project               | Description                                          | Tech Used     | Repository    |
 | --------------------- | ---------------------------------------------------- | ------------- | ------------- |
