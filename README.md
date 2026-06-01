@@ -2,25 +2,15 @@
   <img src="https://github.com/CharlieWoodhouse/CharlieWoodhouse/assets/147112008/7351718a-1fa3-43b7-aba7-aad86a3f8896" alt="Dark cinematic banner" width="100%" />
 </p>
 
-<h1 align="center">⚔️ Charlie Woodhouse</h1>
+<h1 align="center">Charlie Woodhouse</h1>
 
 <p align="center">
   <strong>Developer in Progress | Creative Technologist | Problem Solver</strong>
 </p>
 
-<p align="center">
-  <em>Building through the darkness. Debugging through the waves. Learning with discipline.</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-111111?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-8B0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Mindset-Relentless-4B0082?style=for-the-badge&labelColor=000000" />
-</p>
-
 ---
 
-## 🩸 About Me
+## ⚔️ About Me
 
 I currently work within the **educational sector**, where I continue to develop my technical knowledge, sharpen my problem-solving ability, and expand my skills as a **software developer**.
 
